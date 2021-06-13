@@ -62,7 +62,7 @@ Using exploratory data analysis and data visualisations, this project aims to lo
 |**Bsmt Unf SF**|*float*|housing|Unfinished square feet of basement area.| 
 |**Total Bsmt SF**|*float*|housing|Total square feet of basement area.| 
 |**Heating**|*categorical*|housing|Type of heating.| 
-|**Heating QC**|*categorical**|housing|Heating quality and condition.| 
+|**Heating QC**|*categorical*|housing|Heating quality and condition.| 
 |**Central Air**|*categorical*|housing|Central air conditioning.| 
 |**Electrical**|*categorical*|housing|Electrical system.| 
 |**1st Flr SF**|*int*|housing|First Floor square feet.| 
