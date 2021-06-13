@@ -40,8 +40,8 @@ Using exploratory data analysis and data visualisations, this project aims to lo
 |**Condition 2**|*categorical*|housing|Proximity to various conditions (if more than one is present).| 
 |**Bldg Type**|*categorical*|housing|Type of dwelling.| 
 |**House Style**|*categorical*|housing|Style of dwelling.| 
-|**Overall Qual**|*categorical**|housing|Rates the overall material and finish of the house.| 
-|**Overall Cond**|*categorical**|housing|Rates the overall condition of the house.| 
+|**Overall Qual**|*categorical*|housing|Rates the overall material and finish of the house.| 
+|**Overall Cond**|*categorical*|housing|Rates the overall condition of the house.| 
 |**Year Built**|*int*|housing|Original construction date.| 
 |**Year Remod/Add**|*int*|housing|Remodel date (same as construction date if no remodeling or additions).| 
 |**Roof Matl**|*categorical*|housing|Roof material.| 
