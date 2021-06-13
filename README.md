@@ -118,4 +118,4 @@ Moreover, to increase the value, the home owner should maintain his property in 
 
 ### Data Source
 
-Kaggle Challenge(https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge/data)
+- [Kaggle Challenge](https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge/data)
