@@ -75,21 +75,21 @@ Using exploratory data analysis and data visualisations, this project aims to lo
 |**Half Bath**|*int*|housing|Half baths above grade.| 
 |**Bedroom AbvGr**|*int*|housing|Bedrooms above grade (does NOT include basement bedrooms).| 
 |**Kitchen AbvGr**|*int*|housing|Kitchens above grade.| 
-|**Kitchen Qual**|*categorical**|housing|Kitchen quality.| 
+|**Kitchen Qual**|*categorical*|housing|Kitchen quality.| 
 |**TotRms AbvGrd**|*int*|housing|Total rooms above grade (does not include bathrooms).| 
 |**Functional**|*categorical*|housing|Home functionality (Assume typical unless deductions are warranted).| 
 |**Fireplaces**|*int*|housing|Number of fireplaces.| 
-|**Fireplace Qu**|*categorical**|housing|Fireplace quality.| 
+|**Fireplace Qu**|*categorical*|housing|Fireplace quality.| 
 |**Garage Type**|*categorical*|housing|Garage location.| 
 |**Garage Yr Bltl**|*int*|housing|Year garage was built.| 
 |**Garage Finish**|*categorical*|housing|Interior finish of the garage.| 
 |**Garage Cars**|*int*|housing|Size of garage in car capacity.| 
 |**Garage Area**|*int*|housing|Size of garage in square feet.| 
-|**Garage Qual**|*categorical**|housing|Garage quality.| 
+|**Garage Qual**|*categorical*|housing|Garage quality.| 
 |**Paved Drive**|*categorical*|housing|Paved driveway.| 
 |**Wood Deck SF**|*int*|housing|Wood deck area in square feet.| 
 |**Open Porch SF**|*int*|housing|Open porch area in square fee.| 
-|**Enclosed Porch**|*int*|housing|Enclosed porch area in square feet| 
+|**Enclosed Porch**|*int*|housing|Enclosed porch area in square feet.| 
 |**3Ssn Porch**|*int*|housing|Three season porch area in square feet.| 
 |**Screen Porch**|*int*|housing|Screen porch area in square feet.| 
 |**Pool Area**|*int*|housing|Pool area in square feet.|
