@@ -113,3 +113,9 @@ Based on the model, out of all these factors, the location seems to have the big
 Additionally, purchasing a property in a low residential density area that has a fireplace and more bathrooms adds more value to the property.
 
 Moreover, to increase the value, the home owner should maintain his property in the best possible state. He needs to ensure that the overall state of his property, including the kitchen and the exterior of the property to be in the best state and condition. This could be done by renovating the kitchen or repainting or remodelling the exterior and interior of his home. Should he wish to sell the property in the future, he would need to renovate his property just prior to selling it. This is to avoid inccuring a loss and to earn him the maximum amount of returns. 
+
+---
+
+### Data Source
+
+Kaggle Challenge(https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge/data)
